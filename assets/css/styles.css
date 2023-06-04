@@ -677,6 +677,13 @@ svg {
     margin-inline: 1rem;
   }
 
+  .home__container {
+    padding-top: 0;
+  }
+  .home__title {
+    font-size: x-large;
+  }
+
   .skills__content {
     grid-template-columns: max-content;
     row-gap: 1rem;
